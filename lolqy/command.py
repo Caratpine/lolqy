@@ -74,5 +74,8 @@ def player(ctx):
         res = player_info[1]
         click.echo(res)
 
-if __name__ == "__main__":
+def main():
     lol_qy(obj={})
+
+if __name__ == "__main__":
+    main()
